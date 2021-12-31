@@ -1,6 +1,6 @@
 <?php
 
-namespace Asdh\SaveModel\Fields;
+namespace Sansu\SaveModel\Fields;
 
 use Illuminate\Support\Facades\Hash;
 

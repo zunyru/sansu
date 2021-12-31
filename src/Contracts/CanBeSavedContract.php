@@ -1,6 +1,6 @@
 <?php
 
-namespace Asdh\SaveModel\Contracts;
+namespace Sansu\SaveModel\Contracts;
 
 interface CanBeSavedContract
 {

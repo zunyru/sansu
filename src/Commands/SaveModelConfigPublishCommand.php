@@ -1,6 +1,6 @@
 <?php
 
-namespace Asdh\SaveModel\Commands;
+namespace Sansu\SaveModel\Commands;
 
 use Illuminate\Console\Command;
 

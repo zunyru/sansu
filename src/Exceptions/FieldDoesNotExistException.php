@@ -1,6 +1,6 @@
 <?php
 
-namespace Asdh\SaveModel\Exceptions;
+namespace Sansu\SaveModel\Exceptions;
 
 use Exception;
 

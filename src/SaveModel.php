@@ -1,6 +1,6 @@
 <?php
 
-namespace Asdh\SaveModel;
+namespace Sansu\SaveModel;
 
 use Asdh\SaveModel\Contracts\CanBeSavedContract;
 use Asdh\SaveModel\Exceptions\FieldDoesNotExistException;

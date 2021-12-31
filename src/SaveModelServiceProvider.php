@@ -1,9 +1,9 @@
 <?php
 
-namespace Asdh\SaveModel;
+namespace Sansu\SaveModel;
 
-use Asdh\SaveModel\Commands\MakeFieldCommand;
-use Asdh\SaveModel\Commands\SaveModelConfigPublishCommand;
+use Sansu\SaveModel\Commands\MakeFieldCommand;
+use Sansu\SaveModel\Commands\SaveModelConfigPublishCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Asdh\SaveModel\Fields;
+namespace Sansu\SaveModel\Fields;
 
 class StringField extends Field
 {
