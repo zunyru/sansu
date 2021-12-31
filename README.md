@@ -16,7 +16,7 @@ Save Model is a Laravel package that allows you to save data in the database in 
 You can install the package via composer:
 
 ```bash
-composer require asdh/save-model
+composer require sansu/save-model
 ```
 
 You can publish the config file with:
