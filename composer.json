@@ -1,0 +1,28 @@
+{
+    "name": "sansu/save-model",
+    "description": "Just a new way to save data in the database",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sansu sa ma air",
+            "email": "zun7441.yru@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0",
+        "spatie/laravel-package-tools": "^1.4.3",
+        "illuminate/contracts": "^8.37"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sansu\\SaveModel\\": "src",
+            "Sansu\\SaveModel\\Database\\Factories\\": "database/factories"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sansu\\SaveModel\\Tests\\": "tests"
+        }
+    }
+}
